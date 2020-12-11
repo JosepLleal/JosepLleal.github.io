@@ -8,6 +8,8 @@ Gameplay programmer is my passion but I am opened to everything related to video
 
 ## The Witcher: Ties of destiny
 
+---
+
 ## Broken Engine
 Broken Engine is a 3D game engine made by a team of 13 programmers using C++. This game engine was built to develop The Witcher: Ties of destiny.
 
@@ -15,6 +17,8 @@ My contributions to this engine:
 - Animation System: Features skinning, interpolation between keyframes and blending between animations.
 - Animator Tool: Developed the animator to streamline the importation of animations.
 - Engine bug fixing: I also helped solving issues.
+
+---
 
 ## Astral Engine
 Astral Engine was created by [Victor Chen](https://github.com/Scarzard) and me for the Videogame engines subject for educational purposes.
@@ -36,13 +40,19 @@ My contributions:
 - Animation interpolation.
 - Animation blending.
 
+---
+
 ## RGBeam
 This project is an AR (Augmented Reality) puzzle video game for android made with Unity. This game was created as the final project of the Augmented Reality subject.
+
+---
 
 ## Burger Dreams
 Artificial Intelligence Video game made by [Joan Barduena](https://github.com/JoanBarduena) and me with Unity using C# featuring autonomous agents. To make this game we used FSMs, Behaviour trees and our own steering behaviours. We also used Recast pathfinding with navmesh for the agents movement.
 
 Here you can see how the game works: [Burger Dreams web](https://joanbarduena.github.io/Artificial-Intelligence/)
+
+---
 
 ## Comand and Conquer: WarZone
 A Command&Conquer themed video game which is a mix between a classic RTS game and a tower defense where two players battle each other on a 1vs1 locally.
@@ -56,6 +66,11 @@ My contributions to this project were:
 - Barracks selection to spawn troops
 - Gold Production
 
+---
+
 ## Upside Down
+
+
+---
 
 ## X-Multiply (tribute)
