@@ -69,7 +69,19 @@ My contributions to this project were:
 ---
 
 ## Upside Down
+A platformer video game made by [Joan Barduena](https://github.com/JoanBarduena) and me using C++ (using SDL and pugi libraires) and the maps have been created using Tiled.
 
+My personal contributions:
+- Pathfinding
+- Entities (smasher, bat)
+- UML Files
+- Gui
+- Brofiler
+- Dt and Framerate Cap
+- Solving memory leaks
+- Solving buggs
+- Collisions
+- Entities(player)
 
 ---
 
