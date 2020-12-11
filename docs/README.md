@@ -86,3 +86,17 @@ My personal contributions:
 ---
 
 ## X-Multiply (tribute)
+My first "big" video game which is an X-Multiply tribute made with SDL.
+
+Contributions:
+- Managment of team
+- Player movement
+- Background parallax
+- Enemies
+- Player tentacles
+- HUD
+- Controller support
+- Power Ups
+- Helped with Boss 
+- Bug fixing
+- Debug features
