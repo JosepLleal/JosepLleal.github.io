@@ -15,7 +15,7 @@ My contributions to this engine:
 - Engine bug fixing: I also helped solving issues.
 
 ## Astral Engine
-Astral Engine was created by Victor Chen and me for the Videogame engines subject for educational purposes.
+Astral Engine was created by [Victor Chen](https://github.com/Scarzard) and me for the Videogame engines subject for educational purposes.
 The main goal was to code our own simple game engine with C++ from scratch using various external libraries, and for the last delivery, we implemented a high-level system, skeletal animation.
 My contributions:
 - Game Objects
@@ -34,10 +34,21 @@ My contributions:
 - Animation blending.
 
 ## RGBeam
+This project is an AR (Augmented Reality) puzzle video game for android made with Unity. This game was created as the final project of the Augmented Reality subject.
 
 ## Burger Dreams
+Artificial Intelligence Video game made by [Joan Barduena](https://github.com/JoanBarduena) and me with Unity using C# featuring autonomous agents. To make this game we used FSMs, Behaviour trees and our own steering behaviours. We also used Recast pathfinding with navmesh for the agents movement.
+Here you can see how the game works: https://joanbarduena.github.io/Artificial-Intelligence/
 
 ## Comand and Conquer: WarZone
+A Command&Conquer themed video game which is a mix between a classic RTS game and a tower defense where two players battle each other on a 1vs1 locally.
+You can see more information here: https://stormhowlers.github.io/Command_and_Conquer_WarZone/
+My contributions to this project were:
+- Design and code of the in-game UI
+- Recreate the pause menu from the original game (Command&Conquer: Red Alert 2)
+- Controller inputs
+- Barracks selection to spawn troops
+- Gold Production
 
 ## Upside Down
 
