@@ -4,9 +4,7 @@ During these years I have used mainly C++ to develop games and my own game engin
 
 Gameplay programmer is my passion but I am opened to everything related to video games.
 
-<p align="center">
-  <img  src="https://github.com/JosepLleal/JosepLleal.github.io/blob/main/docs/res/me.png" width="400">
-</p>
+![](https://github.com/JosepLleal/JosepLleal.github.io/blob/main/docs/res/me.png)
 
 ---
 
