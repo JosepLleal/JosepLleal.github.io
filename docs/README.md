@@ -8,6 +8,21 @@ Gameplay programmer is my passion but I am opened to everything related to video
 
 ## The Witcher: Ties of destiny
 
+A Hack and Slash video game made by the whole class based on The Witcher Series. It was made using our own Engine (Broken Engine).
+
+For more information you can check the project: [The Witcher: Ties of Destiny](https://tiesofdestiny.com/)
+
+My participation: 
+- Animation System
+- Animator Tool
+- Engine BugFixing
+- Gameplay Team Lead
+- Archer enemy
+- Spawners
+- Forest cinematic
+- Made particles for enviroment and boss
+- QA sessions
+
 ---
 
 ## Broken Engine
