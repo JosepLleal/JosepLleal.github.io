@@ -4,7 +4,7 @@ During these years I have used mainly C++ to develop games and my own game engin
 
 Gameplay programmer is my passion but I am opened to everything related to video games.
 
-# Projects
+---
 
 ## The Witcher: Ties of destiny
 
