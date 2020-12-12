@@ -88,6 +88,11 @@ Artificial Intelligence Video game made by [Joan Barduena](https://github.com/Jo
 
 Here you can see how the game works: [Burger Dreams web](https://joanbarduena.github.io/Artificial-Intelligence/)
 
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/JoanBarduena/Artificial-Intelligence/master/docs/res/map.png?token=AIT2WGIZP3SVGMOZYKBNVBK73ZSCA" width="600">
+</p>
+
+
 ---
 
 ## Comand and Conquer: WarZone
