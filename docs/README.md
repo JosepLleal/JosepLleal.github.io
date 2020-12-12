@@ -8,6 +8,8 @@ Gameplay programmer is my passion but I am opened to everything related to video
 
 ## The Witcher: Ties of destiny
 
+Year: 2020
+
 A Hack and Slash video game made by the whole class based on The Witcher Series. It was made using our own Engine (Broken Engine).
 
 For more information you can check the project: [The Witcher: Ties of Destiny](https://tiesofdestiny.com/)
@@ -26,6 +28,8 @@ My participation:
 ---
 
 ## Broken Engine
+Year: 2020
+
 Broken Engine is a 3D game engine made by a team of 13 programmers using C++. This game engine was built to develop The Witcher: Ties of destiny.
 
 My contributions to this engine:
@@ -35,7 +39,16 @@ My contributions to this engine:
 
 ---
 
+## RGBeam
+Year: 2020
+
+This project is an AR (Augmented Reality) puzzle video game for android made with Unity. This game was created as the final project of the Augmented Reality subject.
+
+---
+
 ## Astral Engine
+Year: 2019
+
 Astral Engine was created by [Victor Chen](https://github.com/Scarzard) and me for the Videogame engines subject for educational purposes.
 The main goal was to code our own simple game engine with C++ from scratch using various external libraries, and for the last delivery, we implemented a high-level system, skeletal animation.
 
@@ -57,12 +70,9 @@ My contributions:
 
 ---
 
-## RGBeam
-This project is an AR (Augmented Reality) puzzle video game for android made with Unity. This game was created as the final project of the Augmented Reality subject.
-
----
-
 ## Burger Dreams
+Year: 2019
+
 Artificial Intelligence Video game made by [Joan Barduena](https://github.com/JoanBarduena) and me with Unity using C# featuring autonomous agents. To make this game we used FSMs, Behaviour trees and our own steering behaviours. We also used Recast pathfinding with navmesh for the agents movement.
 
 Here you can see how the game works: [Burger Dreams web](https://joanbarduena.github.io/Artificial-Intelligence/)
@@ -70,6 +80,8 @@ Here you can see how the game works: [Burger Dreams web](https://joanbarduena.gi
 ---
 
 ## Comand and Conquer: WarZone
+Year: 2019
+
 A Command&Conquer themed video game which is a mix between a classic RTS game and a tower defense where two players battle each other on a 1vs1 locally.
 
 You can see more information here: [Comand and Conquer: WarZone](https://stormhowlers.github.io/Command_and_Conquer_WarZone/)
@@ -84,6 +96,8 @@ My contributions to this project were:
 ---
 
 ## Upside Down
+Year: 2018
+
 A platformer video game made by [Joan Barduena](https://github.com/JoanBarduena) and me using C++ (using SDL and pugi libraires) and the maps have been created using Tiled.
 
 My personal contributions:
@@ -101,6 +115,8 @@ My personal contributions:
 ---
 
 ## X-Multiply (tribute)
+Year: 2018
+
 My first "big" video game which is an X-Multiply tribute made with SDL.
 
 Contributions:
