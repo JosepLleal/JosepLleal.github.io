@@ -14,7 +14,7 @@ Gameplay programmer is my passion but I am opened to everything related to video
 
 **Location:** Badalona, Spain
 
-**Email:** peplleal-sirvent.com
+**Email:** pep@lleal-sirvent.com
 
 **Phone:** +34 626046307
 
