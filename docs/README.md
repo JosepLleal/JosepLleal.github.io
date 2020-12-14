@@ -8,6 +8,16 @@ Gameplay programmer is my passion but I am opened to everything related to video
   <img  src="https://raw.githubusercontent.com/JosepLleal/JosepLleal.github.io/main/docs/res/me.jpg" width="400">
 </p>
 
+**Name:** Josep Lleal Sirvent
+
+**Date of birth:** September 18th 1999
+
+**Location:** Badalona, Spain
+
+**Email:** peplleal-sirvent.com
+
+**Phone:** +34 626046307
+
 ---
 
 ## The Witcher: Ties of destiny
