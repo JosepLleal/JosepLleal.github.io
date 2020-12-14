@@ -131,8 +131,8 @@ My personal contributions:
 - Entities(player)
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/JosepLleal/JosepLleal.github.io/main/docs/res/upside_down1.PNG" width="400" />
-  <img src="https://raw.githubusercontent.com/JosepLleal/JosepLleal.github.io/main/docs/res/upside_down2.PNG" width="400" /> 
+  <img src="https://raw.githubusercontent.com/JosepLleal/JosepLleal.github.io/main/docs/res/upside_down1.PNG" width="300" />
+  <img src="https://raw.githubusercontent.com/JosepLleal/JosepLleal.github.io/main/docs/res/upside_down2.PNG" width="300" /> 
 </p>
 
 ---
