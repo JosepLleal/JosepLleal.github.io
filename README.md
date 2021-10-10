@@ -1,1 +1,5 @@
-Welcome! In this repository you can have a look at my portfolio.
+Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
+
+Author: BootstrapMade.com
+
+License: https://bootstrapmade.com/license/
