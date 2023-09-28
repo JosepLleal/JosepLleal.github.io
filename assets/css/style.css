@@ -18,6 +18,10 @@ body {
   height: 100%;
 }
 
+main {
+  height: 100%;
+}
+
 h1,
 h2,
 h3,
@@ -462,6 +466,18 @@ a:hover {
   padding: 12px 0;
 }
 
+.HomeButton {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+
+
+
+
 /*--------------------------------------------------------------
 # Navigation Menu
 --------------------------------------------------------------*/
@@ -844,7 +860,12 @@ a:hover {
 .portfolio-details {
   padding-top: 40px;
   background-color: #000000;
-  height:890px;
+
+  height: 100%;
+
+  background-size:     cover;  
+  background-repeat:   no-repeat;
+  background-position: center center; 
 }
 
 .portfolio-details .portfolio-details-slider img {
@@ -1157,7 +1178,7 @@ footer {
   text-align: center;
   color: #fff;
   padding: 25px 0;
-  background: rgb(54, 54, 54);
+  
 }
 footer .copyright {
   margin-bottom: 0.3rem;
@@ -1168,3 +1189,4 @@ footer .credits {
 footer .credits a {
   color: #fff;
 }
+
